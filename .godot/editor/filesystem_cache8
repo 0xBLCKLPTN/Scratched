@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1700649314
+::res://::1700665580
 icon.svg::CompressedTexture2D::4941741849991362825::1700640972::1700641037::1::::<><>::
-node_2d.tscn::PackedScene::8324932123630688792::1700648490::0::1::::<><>::uid://bh5d0wrbvsmp8::::res://assets/TX Tileset Grass.png<>uid://dk1lmgxjykuq7::::res://assets/TX Props.png<>uid://bi66qqkij3ip6::::res://assets/TX Plant.png<>uid://dsi6yqrmk6si1::::res://assets/FreeKnight_v1/Colour2/NoOutline/Outline/120x80_PNGSheets/_Idle.png<>res://scripts/player_controller.gd<>uid://cs543oqknhgr2::::res://assets/FreeKnight_v1/Colour1/Outline/120x80_PNGSheets/_Idle.png<>uid://bu45ajhs70fnf::::res://assets/FreeKnight_v1/Colour1/Outline/120x80_PNGSheets/_Run.png<>uid://cbufj4xtxd0qn::::res://assets/Skeleton/Skeleton Idle.png<>res://scripts/SkeletonControlling.gd
+node_2d.tscn::PackedScene::8324932123630688792::1700663131::0::1::::<><>::uid://bh5d0wrbvsmp8::::res://assets/TX Tileset Grass.png<>uid://dk1lmgxjykuq7::::res://assets/TX Props.png<>uid://bi66qqkij3ip6::::res://assets/TX Plant.png<>uid://dsi6yqrmk6si1::::res://assets/FreeKnight_v1/Colour2/NoOutline/Outline/120x80_PNGSheets/_Idle.png<>uid://1itni5c8otfx::::res://assets/FreeKnight_v1/Colour1/Outline/120x80_PNGSheets/_Dash.png<>res://scripts/player_controller.gd<>uid://cs543oqknhgr2::::res://assets/FreeKnight_v1/Colour1/Outline/120x80_PNGSheets/_Idle.png<>uid://bu45ajhs70fnf::::res://assets/FreeKnight_v1/Colour1/Outline/120x80_PNGSheets/_Run.png<>uid://doc7y4dd2ghpy::::res://assets/FreeKnight_v1/Colour1/Outline/120x80_PNGSheets/_SlideFull.png<>uid://cbufj4xtxd0qn::::res://assets/Skeleton/Skeleton Idle.png<>res://scripts/SkeletonControlling.gd<>uid://c3jf1pbkedhcw::::res://assets/Skeleton/Skeleton Attack.png<>uid://yyxgj457xkbh::::res://assets/Skeleton/Skeleton Walk.png
 README.md::TextFile::-1::1700640972::0::1::::<><>::
 ::res://assets/::1700641037
 TX Plant.png::CompressedTexture2D::3013838798849719085::1700640972::1700641037::1::::<><>::
@@ -156,6 +156,7 @@ Skeleton Hit.png::CompressedTexture2D::3170286330131844644::1700640972::17006410
 Skeleton Idle.png::CompressedTexture2D::4884638982816218297::1700640972::1700641036::1::::<><>::
 Skeleton React.png::CompressedTexture2D::7535121791121769960::1700640972::1700641036::1::::<><>::
 Skeleton Walk.png::CompressedTexture2D::1735485037923490313::1700640972::1700641036::1::::<><>::
-::res://scripts/::1700648490
-player_controller.gd::GDScript::-1::1700643397::0::1::::<>CharacterBody2D<>::
-SkeletonControlling.gd::GDScript::-1::1700648490::0::1::::<>CharacterBody2D<>::
+::res://scripts/::1700663131
+animation_controller.gd::GDScript::-1::1700659350::0::1::::<>RefCounted<>::
+player_controller.gd::GDScript::-1::1700663131::0::1::::<>CharacterBody2D<>::
+SkeletonControlling.gd::GDScript::-1::1700661086::0::1::::<>CharacterBody2D<>::

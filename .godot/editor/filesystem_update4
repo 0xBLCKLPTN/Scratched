@@ -1,2 +1,4 @@
 res://node_2d.tscn
 res://scripts/SkeletonControlling.gd
+res://scripts/player_controller.gd
+res://scripts/animation_controller.gd
