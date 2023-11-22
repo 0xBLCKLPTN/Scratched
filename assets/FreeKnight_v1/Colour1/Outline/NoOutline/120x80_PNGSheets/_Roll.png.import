@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://skjma1v4sndc"
-path="res://.godot/imported/_Roll.png-d46089de2158ef0204959b74858895ff.ctex"
+path="res://.godot/imported/_Roll.png-65bb4c1aa5180ba473972a4707b8b4cd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/FreeKnight_v1/Colour1/NoOutline/120x80_PNGSheets/_Roll.png"
-dest_files=["res://.godot/imported/_Roll.png-d46089de2158ef0204959b74858895ff.ctex"]
+source_file="res://assets/FreeKnight_v1/Colour1/Outline/NoOutline/120x80_PNGSheets/_Roll.png"
+dest_files=["res://.godot/imported/_Roll.png-65bb4c1aa5180ba473972a4707b8b4cd.ctex"]
 
 [params]
 

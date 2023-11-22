@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbl7nww4nhlf1"
-path="res://.godot/imported/_CrouchTransition.png-959f04f3266b6a35c96d0afb7fc9b9cf.ctex"
+path="res://.godot/imported/_CrouchTransition.png-84814d63cd3e4071de0646f2caa609cb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/FreeKnight_v1/Colour1/NoOutline/120x80_PNGSheets/_CrouchTransition.png"
-dest_files=["res://.godot/imported/_CrouchTransition.png-959f04f3266b6a35c96d0afb7fc9b9cf.ctex"]
+source_file="res://assets/FreeKnight_v1/Colour1/Outline/NoOutline/120x80_PNGSheets/_CrouchTransition.png"
+dest_files=["res://.godot/imported/_CrouchTransition.png-84814d63cd3e4071de0646f2caa609cb.ctex"]
 
 [params]
 

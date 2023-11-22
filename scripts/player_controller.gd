@@ -4,6 +4,10 @@ extends CharacterBody2D
 
 var target = position
 
+func player():
+	pass
+	
+	
 func _input(event):
 	if event.is_action_pressed("click"):
 		target = get_global_mouse_position()

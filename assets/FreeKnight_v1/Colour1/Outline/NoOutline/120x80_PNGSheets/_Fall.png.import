@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dovyhwosksamh"
-path="res://.godot/imported/_Fall.png-8a708a4f5ccec1b391287012338e120f.ctex"
+path="res://.godot/imported/_Fall.png-a7e65788172e3b3ff0b9489d38b5f58b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/FreeKnight_v1/Colour1/NoOutline/120x80_PNGSheets/_Fall.png"
-dest_files=["res://.godot/imported/_Fall.png-8a708a4f5ccec1b391287012338e120f.ctex"]
+source_file="res://assets/FreeKnight_v1/Colour1/Outline/NoOutline/120x80_PNGSheets/_Fall.png"
+dest_files=["res://.godot/imported/_Fall.png-a7e65788172e3b3ff0b9489d38b5f58b.ctex"]
 
 [params]
 

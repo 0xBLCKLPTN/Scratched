@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy1j7hy8vi14u"
-path="res://.godot/imported/_Hit.png-7347cb7770424f18bbc0fd81dc82c644.ctex"
+path="res://.godot/imported/_Hit.png-10a1f91ee86ff729b0f58d3e94d71b5c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/FreeKnight_v1/Colour1/NoOutline/120x80_PNGSheets/_Hit.png"
-dest_files=["res://.godot/imported/_Hit.png-7347cb7770424f18bbc0fd81dc82c644.ctex"]
+source_file="res://assets/FreeKnight_v1/Colour1/Outline/NoOutline/120x80_PNGSheets/_Hit.png"
+dest_files=["res://.godot/imported/_Hit.png-10a1f91ee86ff729b0f58d3e94d71b5c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3lriemcn7un8"
-path="res://.godot/imported/_WallSlide.png-b75e3bb543e58d335fdc62d372c44e3a.ctex"
+path="res://.godot/imported/_WallSlide.png-1728400482b802859a5851bd0de1ae49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/FreeKnight_v1/Colour2/Outline/120x80_PNGSheets/_WallSlide.png"
-dest_files=["res://.godot/imported/_WallSlide.png-b75e3bb543e58d335fdc62d372c44e3a.ctex"]
+source_file="res://assets/FreeKnight_v1/Colour2/NoOutline/Outline/120x80_PNGSheets/_WallSlide.png"
+dest_files=["res://.godot/imported/_WallSlide.png-1728400482b802859a5851bd0de1ae49.ctex"]
 
 [params]
 

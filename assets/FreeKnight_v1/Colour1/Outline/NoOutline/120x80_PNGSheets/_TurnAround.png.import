@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3684274whlai"
-path="res://.godot/imported/_TurnAround.png-5e7b241227acd4723c20ebbb62c32828.ctex"
+path="res://.godot/imported/_TurnAround.png-1ff15a5ce61dcc8578c2a26c1461c101.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/FreeKnight_v1/Colour1/NoOutline/120x80_PNGSheets/_TurnAround.png"
-dest_files=["res://.godot/imported/_TurnAround.png-5e7b241227acd4723c20ebbb62c32828.ctex"]
+source_file="res://assets/FreeKnight_v1/Colour1/Outline/NoOutline/120x80_PNGSheets/_TurnAround.png"
+dest_files=["res://.godot/imported/_TurnAround.png-1ff15a5ce61dcc8578c2a26c1461c101.ctex"]
 
 [params]
 
